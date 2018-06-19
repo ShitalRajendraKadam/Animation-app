@@ -1,2 +1,2 @@
 # Multithreading
-Hi this is multitheding app
+Hi this is multithreding app
